@@ -6,5 +6,8 @@ namespace pis
 {
     class NewClass
     {
+        public void nova() {
+
+        }
     }
 }
