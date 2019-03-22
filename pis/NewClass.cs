@@ -6,5 +6,7 @@ namespace pis
 {
     class NewClass
     {
+        void Method2(){
+        }
     }
 }
