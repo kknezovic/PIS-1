@@ -8,6 +8,7 @@ namespace pis
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World");
+            Console.WriteLine("Ispravljeno");
         }
     }
 }
