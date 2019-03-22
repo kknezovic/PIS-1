@@ -6,8 +6,11 @@ namespace pis
 {
     class NewClass
     {
-        public void nova() {
 
+
+        void Method2()
+        {
         }
+
     }
 }
